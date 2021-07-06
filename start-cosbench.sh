@@ -4,7 +4,7 @@
 : ${CONTROLLER:=true}
 : ${DRIVER:=true}
 : ${COSBENCH_PLUGINS:=OPENIO}
-: ${VERSION:="0.4.7"}
+: ${VERSION:="0.4.1"}
 
 ### Driver configuration
 if [ "$DRIVER" = true ]; then
