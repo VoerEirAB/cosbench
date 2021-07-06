@@ -4,9 +4,8 @@
 : ${CONTROLLER:=true}
 : ${DRIVER:=true}
 : ${COSBENCH_PLUGINS:=OPENIO}
+: ${VERSION:="0.4.7"}
 
-
-cd /cosbench
 ### Driver configuration
 if [ "$DRIVER" = true ]; then
   # Fix invalid option '-i 0' and add timeout option
