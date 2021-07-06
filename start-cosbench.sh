@@ -4,7 +4,7 @@
 : ${CONTROLLER:=true}
 : ${DRIVER:=true}
 : ${COSBENCH_PLUGINS:=OPENIO}
-
+: ${VERSION:="0.4.7"}
 
 cd /cosbench
 ### Driver configuration
