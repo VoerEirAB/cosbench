@@ -2,7 +2,7 @@
 
 export file_name="cosbench-674fa86.tgz"
 export folder_name="cosbench-674fa86"
-export VERSION="0.4.7"
+export VERSION="0.4.1"
 
 install_path=$1
 
